@@ -25,3 +25,11 @@ All tasks are saved locally in a `tasks.json` file, so they persist after closin
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
    cd todo-list-app
+
+   
+to-do-list-app/
+│
+├── README.md             # Project documentation
+├── To-do list.py         # Main Python application file
+├── To-do list.exe        # Executable version of the app (for Windows users)
+└── To-do list app.pdf    # Project report / documentation in PDF
